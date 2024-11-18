@@ -1,0 +1,7 @@
+output/*
+*.pcap
+logs/*
+logs/
+.vscode/
+__pycache__/
+Pipfile.lock
